@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+E:\prog\WinForms\Snake_1.0\MyForm\MyForm.cpp(153,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\prog\WinForms\Snake_1.0\MyForm\MyForm.cpp(247,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MyForm.vcxproj -> E:\prog\WinForms\Snake_1.0\x64\Debug\MyForm.exe

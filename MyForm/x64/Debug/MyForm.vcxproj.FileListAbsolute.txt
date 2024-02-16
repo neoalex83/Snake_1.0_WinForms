@@ -1,0 +1,7 @@
+E:\prog\WinForms\MyForm\MyForm\x64\Debug\MyForm.vcxproj.AssemblyReference.cache
+E:\prog\WinForms\MyForm\MyForm\x64\Debug\MyForm.vcxproj.SuggestedBindingRedirects.cache
+E:\prog\WinForms\MyForm\MyForm\x64\Debug\MyForm.MyForm.resources
+E:\prog\WinForms\MyForm\MyForm\x64\Debug\MyForm.vcxproj.GenerateResource.cache
+E:\prog\WinForms\Snake_1.0\MyForm\x64\Debug\MyForm.vcxproj.AssemblyReference.cache
+E:\prog\WinForms\Snake_1.0\MyForm\x64\Debug\MyForm.MyForm.resources
+E:\prog\WinForms\Snake_1.0\MyForm\x64\Debug\MyForm.vcxproj.GenerateResource.cache
